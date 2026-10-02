@@ -1,0 +1,78 @@
+{
+  "readyForLaunch": true,
+  "siteName": "The Sift Minecraft Guide",
+  "shortName": "The Sift Minecraft",
+  "description": "Independent guide to The Sift in Minecraft, including the 2027 Java and Bedrock release, Minecraft Dungeons II access, mobs, biomes, bosses and community mods.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "217 29% 9%",
+      "foreground": "0 0% 99%",
+      "card": "217 29% 14%",
+      "card-foreground": "0 0% 99%",
+      "primary": "217 91% 60%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "217 29% 20%",
+      "muted": "217 29% 17%",
+      "muted-foreground": "0 0% 99%",
+      "border": "217 29% 25%",
+      "radius": ".4rem",
+      "card-shadow": "none",
+      "hero-gradient": "none",
+      "background-pattern": "none",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "600",
+      "heading-letter-spacing": "-0.015em"
+    },
+    "skin": "wiki",
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "appearanceVersion": 2,
+    "appearanceMode": "fixed-template",
+    "templateVersion": 1,
+    "accentColorId": "blue",
+    "colorMode": "custom",
+    "background": "#10151D",
+    "accent": "#3B82F6",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://the-sift-minecraft.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": null,
+    "url": null
+  },
+  "repositoryUrl": null,
+  "allowedExternalDomains": [
+    "www.minecraft.net",
+    "news.xbox.com",
+    "www.curseforge.com",
+    "minecraft.wiki"
+  ],
+  "assets": {
+    "logo": "/images/the-sift-minecraft-logo.webp",
+    "cover": "/images/the-sift-minecraft-cover.webp",
+    "openGraph": "/images/the-sift-minecraft-og.svg",
+    "favicon": "/images/the-sift-minecraft-logo.webp"
+  },
+  "game": {
+    "name": "The Sift",
+    "platform": "Minecraft Dungeons II / Minecraft Java & Bedrock",
+    "developer": "Mojang Studios",
+    "genre": "Adventure",
+    "officialUrl": "https://www.minecraft.net/en-us/article/mclive_sept2026_recap"
+  },
+  "seo": {
+    "titleTemplate": "%s | The Sift Minecraft Guide",
+    "defaultKeywords": [
+      "the sift minecraft"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Next.js exports and TypeScript caches
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Local environment files; keep the configuration example
+.env*
+!.env.example
+
+# Browser checks, reports and packaged exports
+.playwright-cli/
+output/
+release/
+coverage/
+playwright-report/
+test-results/
+
+# Local editor settings and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Runtime and package-manager logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

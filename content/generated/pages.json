@@ -1,0 +1,1309 @@
+[
+  {
+    "enabled": true,
+    "slug": "release-date",
+    "pageType": "article",
+    "navLabel": "Release Date",
+    "title": "When Is The Sift Coming to Minecraft? 2027 Release",
+    "description": "The Sift is confirmed for Minecraft Java and Bedrock in 2027. See the official release window, timeline, and what Mojang has not dated yet.",
+    "keywords": [
+      "when is the sift coming to minecraft?"
+    ],
+    "primaryKeyword": "when is the sift coming to minecraft?",
+    "secondaryKeywords": [],
+    "navVisible": true,
+    "hero": {
+      "heading": "When Is The Sift Coming to Minecraft?",
+      "lead": "Mojang has confirmed The Sift for Minecraft Java and Bedrock in 2027. No exact month or day has been announced. The Sift is already playable in Minecraft Dungeons II, which launched September 29, 2026."
+    },
+    "sections": [
+      {
+        "id": "status",
+        "heading": "The Sift Release Date: Current Status",
+        "paragraphs": [
+          "The answer depends on the game you mean. For Java and Bedrock, the release window is 2027. For Dungeons II, the launch date has already passed. These dates describe two releases, so a headline saying that The Sift is available now does not mean it has arrived in an unmodified Java or Bedrock world."
+        ],
+        "table": {
+          "caption": "The Sift availability by edition",
+          "columns": [
+            "Edition",
+            "Status",
+            "Release / access"
+          ],
+          "rows": [
+            [
+              "Minecraft Dungeons II",
+              "Playable now",
+              "Launched September 29, 2026; enter through rifts"
+            ],
+            [
+              "Minecraft Java Edition",
+              "Coming in 2027",
+              "Exact month and day not announced"
+            ],
+            [
+              "Minecraft Bedrock Edition",
+              "Coming in 2027",
+              "Exact month and day not announced"
+            ],
+            [
+              "Community mods / add-ons",
+              "Available separately",
+              "Unofficial projects with their own requirements"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "confirmed",
+        "heading": "What Mojang Has Confirmed for 2027",
+        "paragraphs": [
+          "The Minecraft Live September 2026 recap says the new dimension is coming to Java Edition and Bedrock Edition next year. Read from the date of that announcement, next year means 2027. The recap introduces The Sift alongside the Overworld, Nether and End, while also discussing its Dungeons II appearance.",
+          "That announcement answers the edition question without setting a specific launch day. A year-long window is not a month, season, game version number or countdown target. If you are planning a server update or a shared world, leave those decisions open until Mojang publishes the release details needed for your edition."
+        ],
+        "subsections": [
+          {
+            "heading": "Minecraft Java Edition",
+            "paragraphs": [
+              "Java is included in the official announcement. Community Java mods already using The Sift name are independent releases, with their own version support. Their publication dates do not establish the date of the vanilla dimension."
+            ]
+          },
+          {
+            "heading": "Minecraft Bedrock Edition",
+            "paragraphs": [
+              "Bedrock is also included. A downloadable Bedrock recreation remains an add-on even when it is designed around announced official content. Its availability does not change the announced 2027 window."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "timeline",
+        "heading": "The Sift Release Timeline",
+        "paragraphs": [
+          "The sequence matters because reveal coverage, launch news and future Minecraft plans all appear in search results together. The gameplay trailer explains the Dungeons II rifts, the Live recap announces the vanilla expansion, and the launch article confirms that Dungeons II is available."
+        ],
+        "table": {
+          "caption": "Official announcement timeline",
+          "columns": [
+            "Date / window",
+            "Milestone",
+            "What it means"
+          ],
+          "rows": [
+            [
+              "August 20, 2026",
+              "Dungeons II gameplay trailer",
+              "Introduces The Sift through rifts"
+            ],
+            [
+              "September 26, 2026",
+              "Minecraft Live and Xbox announcement",
+              "Java and Bedrock planned for 2027"
+            ],
+            [
+              "September 29, 2026",
+              "Dungeons II launch",
+              "Official playable Dungeons II version available"
+            ],
+            [
+              "2027",
+              "Java and Bedrock release window",
+              "Exact month and day not announced"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "java",
+        "heading": "Is The Sift in Minecraft Java Yet?",
+        "paragraphs": [
+          "The announced vanilla Java release is still ahead. Installing a mod is a separate choice, rather than evidence that the base game has received the dimension. Before following a Java portal guide, check whether it names a loader, a mod file or extra dependencies.",
+          "A tutorial can show a real, working portal inside a modified installation. The misleading step is applying it to a different installation. If the creator says their method belongs to Mielon’s project, use that information to identify the project; do not infer that the same steps will work in an ordinary survival world."
+        ],
+        "links": [
+          {
+            "slug": "mods",
+            "label": "Java mods and Bedrock add-ons"
+          },
+          {
+            "slug": "how-to-enter",
+            "label": "How to enter The Sift"
+          }
+        ]
+      },
+      {
+        "id": "bedrock",
+        "heading": "Is The Sift in Minecraft Bedrock Yet?",
+        "paragraphs": [
+          "The official Bedrock dimension is planned for 2027 as well. A community add-on may supply a recreation today. Look at the world’s installed content and the creator’s instructions before deciding which kind of experience a video or guide demonstrates.",
+          "For someone who simply wants the future official version, the useful action is to watch Mojang’s release announcements. Buying Dungeons II or installing a recreation are alternative experiences, rather than required steps for preparing a Bedrock world for an announced update."
+        ]
+      },
+      {
+        "id": "still-to-come",
+        "heading": "What Is Still Not Announced?",
+        "paragraphs": [
+          "The exact date, vanilla entry method and full vanilla mob and biome roster have not been announced in the material linked here. There is also no announced snapshot or Preview build for The Sift in these sources. Do not treat a year in an announcement as a promise that a test version is already available.",
+          "A future testing announcement would need to identify the actual Java snapshot or Bedrock Preview version and its included features. Until then, avoid changing installations based on unnamed “Sift update” downloads. Official game release notes are the place to check whether a test build includes the dimension."
+        ],
+        "bullets": [
+          "No exact 2027 month or day to put on a countdown.",
+          "No revealed vanilla portal materials or activation method.",
+          "No complete Java / Bedrock creature or biome list.",
+          "No specific The Sift snapshot or Preview version announced in the linked material."
+        ]
+      },
+      {
+        "id": "comparison",
+        "heading": "Dungeons II vs the 2027 Minecraft Version",
+        "paragraphs": [
+          "Dungeons II is the released action-RPG experience. The future Java and Bedrock addition belongs to the main Minecraft editions. The setting can connect the games without making their access systems, combat encounters or world rules identical.",
+          "For playing today, use our Dungeons II overview and rift access guide. For a community recreation, use the mods page and creator sources. For the future vanilla release, keep the 2027 window and wait for edition-specific details. This keeps an older trailer, a mod update and a new official announcement from becoming a single confusing timeline."
+        ],
+        "links": [
+          {
+            "slug": "minecraft-dungeons-2",
+            "label": "The Sift in Dungeons II"
+          },
+          {
+            "slug": "how-to-enter",
+            "label": "How to enter The Sift"
+          },
+          {
+            "slug": "mods",
+            "label": "Java mods and Bedrock add-ons"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "paragraphs": [],
+        "sources": [
+          {
+            "label": "Minecraft Live September 2026 recap",
+            "url": "https://www.minecraft.net/en-us/article/mclive_sept2026_recap"
+          },
+          {
+            "label": "Minecraft Dungeons II launch announcement",
+            "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-is-live"
+          },
+          {
+            "label": "Minecraft Dungeons II gameplay trailer",
+            "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-gameplay-trailer"
+          },
+          {
+            "label": "Xbox Wire: The Sift announcement",
+            "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is The Sift Minecraft release date?",
+        "answer": "Java and Bedrock are confirmed for 2027, with no exact day or month announced. Dungeons II launched September 29, 2026 and includes The Sift."
+      },
+      {
+        "question": "Will The Sift be in both Java and Bedrock?",
+        "answer": "Yes. Both editions are named in the official Minecraft Live announcement. This does not establish that every Dungeons II creature or mechanic will appear unchanged."
+      },
+      {
+        "question": "Is The Sift available in snapshots or Preview?",
+        "answer": "The linked official announcement material does not name a The Sift snapshot or Preview build. Check official release notes for a specific testing announcement before changing your installation."
+      },
+      {
+        "question": "Can I play The Sift now?",
+        "answer": "You can play the official version in Minecraft Dungeons II. Java mods and Bedrock add-ons offer separate unofficial interpretations with their own installation requirements."
+      },
+      {
+        "question": "Is September 29 the vanilla release date?",
+        "answer": "No. September 29, 2026 is the Minecraft Dungeons II launch date. The announced Java and Bedrock window is 2027."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-enter",
+      "minecraft-dungeons-2",
+      "mods"
+    ],
+    "lastReviewed": "2026-10-02"
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-enter",
+    "pageType": "guide",
+    "navLabel": "How to Enter",
+    "title": "How to Enter The Sift in Minecraft & Dungeons II",
+    "description": "Learn how The Sift access works in Minecraft Dungeons II, plus the current Java and Bedrock status. Separate official rifts from community mod portals.",
+    "keywords": [
+      "how to enter the sift in minecraft"
+    ],
+    "primaryKeyword": "how to enter the sift in minecraft",
+    "secondaryKeywords": [],
+    "navVisible": true,
+    "hero": {
+      "heading": "How to Enter The Sift in Minecraft",
+      "lead": "In Minecraft Dungeons II, players enter The Sift by stepping through rifts. In Java and Bedrock, The Sift is planned for 2027 and Mojang has not announced the vanilla entry method yet."
+    },
+    "sections": [
+      {
+        "id": "dungeons-rifts",
+        "heading": "How to Enter The Sift in Minecraft Dungeons II",
+        "paragraphs": [
+          "Rifts are the official connection described in Minecraft’s gameplay trailer and Live recap. The recap explains that entering one transports a player to The Sift. This is an access feature of Dungeons II’s interconnected world, not a portal frame you construct using a Java crafting recipe.",
+          "For a broad access answer, that is enough to choose the correct game and mechanic. A precise route to a particular rift would need the location and progression context from the released game. This guide does not assign universal coordinates, a fixed quest gate or portal ingredients to that journey.",
+          "If you are following a walkthrough, make sure it says Minecraft Dungeons II and identifies the part of the adventure it covers. A guide to the original Minecraft Dungeons, or to a fan-made Java dimension, can use similar language while describing a different system."
+        ],
+        "links": [
+          {
+            "slug": "minecraft-dungeons-2",
+            "label": "The Sift in Dungeons II"
+          }
+        ]
+      },
+      {
+        "id": "java-entry",
+        "heading": "Can You Enter The Sift in Java Edition?",
+        "paragraphs": [
+          "The future vanilla Java version is planned for 2027. Mojang has not announced the entry method in the sources linked below. There is no official Java recipe in those announcements to reproduce in an unmodified world today.",
+          "A Java mod can add its own dimension and travel rules. That is a valid way to try a community interpretation if you intentionally choose to install it. It is not a hidden route already present in vanilla. First check your game version, installed loader and exact project name; only then follow a creator’s portal instructions."
+        ]
+      },
+      {
+        "id": "bedrock-entry",
+        "heading": "Can You Enter The Sift in Bedrock Edition?",
+        "paragraphs": [
+          "The official Bedrock addition has the same announced 2027 window. Until Mojang reveals its access system, a Bedrock portal tutorial should be read in the context of the add-on it demonstrates.",
+          "Bedrock add-on instructions should not be copied into Java, and a Java mod’s custom blocks should not be expected in an ordinary Bedrock world. When playing with friends, establish which edition and installed content everyone is using before troubleshooting an entry method. A shared dimension name is not a compatibility guarantee."
+        ],
+        "links": [
+          {
+            "slug": "release-date",
+            "label": "Release date and edition status"
+          }
+        ]
+      },
+      {
+        "id": "portal",
+        "heading": "Is There a The Sift Portal?",
+        "paragraphs": [
+          "There are three different questions behind that phrase. Dungeons II has official rifts. Future vanilla Java and Bedrock have an announced dimension, with the entry method still to come. Community projects can create their own portals, commands or interactions.",
+          "The word portal is often used loosely for all three. To find useful instructions, add the game or project name to your search. “Dungeons II rift” points toward the released official experience. “Mielon’s The Sift” identifies a particular Java mod. A named Bedrock add-on points toward a separate creator’s documentation."
+        ],
+        "table": {
+          "caption": "Choose the access system that matches your installation",
+          "columns": [
+            "Experience",
+            "Access context",
+            "Guide to use"
+          ],
+          "rows": [
+            [
+              "Dungeons II",
+              "Official rifts",
+              "Dungeons II material and released-game guidance"
+            ],
+            [
+              "Vanilla Java / Bedrock",
+              "Method not announced",
+              "Future official release instructions"
+            ],
+            [
+              "Mielon’s Java mod",
+              "Mod-specific Ancient City method",
+              "Current creator instructions"
+            ],
+            [
+              "Bedrock recreation",
+              "Add-on-specific portal / command",
+              "That add-on’s current description"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "mods",
+            "label": "Java mods and Bedrock add-ons"
+          }
+        ]
+      },
+      {
+        "id": "ancient-city",
+        "heading": "Why You See Ancient City Portal Tutorials Online",
+        "paragraphs": [
+          "Creators can use the Ancient City as a setting for custom travel. Mielon’s Java mod describes a sound-based portal method, while the Bedrock add-on linked here describes its own activation and travel options. Those methods belong to their projects, and they are not interchangeable.",
+          "A video may demonstrate the project accurately without claiming to predict Mojang’s implementation. Look for a download link, project title and game version in its description. If these are missing, there is not enough practical information to apply the method to your installation. You should not expect a custom mechanic to appear simply because the same structure exists in your world.",
+          "For an installed community project, use the creator’s current instructions rather than an old clip. Even within one project, requirements can change between files. The mods guide links to the project pages so you can check the version you actually downloaded."
+        ],
+        "links": [
+          {
+            "slug": "mods",
+            "label": "Java mods and Bedrock add-ons"
+          }
+        ]
+      },
+      {
+        "id": "choose",
+        "heading": "Which Guide Should You Follow?",
+        "paragraphs": [
+          "Start by reading the game title and your installed content. This avoids trying to solve a portal problem that belongs to another edition. If your goal is the future vanilla dimension, there is no need to install a recreation unless you want that separate experience.",
+          "When an add-on or mod fails to work, record the project version and check its dependency and compatibility notes before changing your world. Test community content in a backed-up or separate world. A creator’s support instructions are more useful than mixing steps from several projects with the same name."
+        ],
+        "bullets": [
+          "Playing Dungeons II: use official rift information and a guide to your current adventure.",
+          "Playing vanilla Java: the dimension is planned for 2027; official entry instructions are still to come.",
+          "Playing vanilla Bedrock: use the same release distinction; community add-ons are separate.",
+          "Using a Java mod: follow that mod’s loader, version and portal documentation.",
+          "Using a Bedrock add-on: follow that creator’s world setup and travel instructions."
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "paragraphs": [],
+        "sources": [
+          {
+            "label": "Minecraft Dungeons II gameplay trailer",
+            "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-gameplay-trailer"
+          },
+          {
+            "label": "Minecraft Live September 2026 recap",
+            "url": "https://www.minecraft.net/en-us/article/mclive_sept2026_recap"
+          },
+          {
+            "label": "Mielon’s The Sift on CurseForge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift"
+          },
+          {
+            "label": "The Sift Dimension Bedrock add-on on CurseForge",
+            "url": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you get to The Sift in Minecraft?",
+        "answer": "In Dungeons II, enter through rifts. In vanilla Java and Bedrock, the dimension is planned for 2027 and its entry method has not been revealed."
+      },
+      {
+        "question": "Is there an official Sift portal in Java?",
+        "answer": "No vanilla Java portal method has been announced in the current official material. Working Java portals shown in community projects should be labeled with the mod they belong to."
+      },
+      {
+        "question": "Can Bedrock players enter The Sift now?",
+        "answer": "Players can choose a separate community add-on. That is different from the official Bedrock dimension planned for 2027."
+      },
+      {
+        "question": "Are Ancient City Sift portals official?",
+        "answer": "The Ancient City methods covered by the linked mod creators are community mechanics. They do not confirm how future vanilla travel will work."
+      },
+      {
+        "question": "Do I need a mod to enter The Sift in normal Minecraft today?",
+        "answer": "A community project is the separate option for trying a recreation in Java or Bedrock today. The official playable experience is in Dungeons II."
+      }
+    ],
+    "relatedSlugs": [
+      "release-date",
+      "minecraft-dungeons-2",
+      "mods"
+    ],
+    "lastReviewed": "2026-10-02"
+  },
+  {
+    "enabled": true,
+    "slug": "minecraft-dungeons-2",
+    "pageType": "article",
+    "navLabel": "Dungeons II",
+    "title": "The Sift in Minecraft Dungeons II: Guide & Access",
+    "description": "Explore The Sift in Minecraft Dungeons II: how rifts work, what is confirmed about its areas, mobs and mechanics, and how it differs from vanilla.",
+    "keywords": [
+      "the sift in minecraft dungeons ii"
+    ],
+    "primaryKeyword": "the sift in minecraft dungeons ii",
+    "secondaryKeywords": [],
+    "navVisible": true,
+    "hero": {
+      "heading": "The Sift in Minecraft Dungeons II",
+      "lead": "The Sift is playable in Minecraft Dungeons II, released September 29, 2026. Rifts connect the Overworld to this new dimension, which has its own environments, mobs, hazards and changing conditions."
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "heading": "What Is The Sift in Minecraft Dungeons II?",
+        "paragraphs": [
+          "The Sift expands the adventure beyond the Overworld. It is a distinct dimension in the released sequel, with an ecosystem and landscapes of its own. The official launch announcement describes a place inhabited by friendly and hostile beings, where the illagers’ presence is also part of the adventure.",
+          "For a player deciding which guide to use, Dungeons II is the key part of the title. This page describes the action-RPG setting you can play today. It does not describe a dimension already installed in normal Java or Bedrock Minecraft. The future main-game addition has a separate release window and will need its own edition-specific guidance.",
+          "The shared setting makes Dungeons II a way to experience The Sift now, but it is not a promise of identical future survival mechanics. Keep encounter advice, rift travel and world exploration tied to the game they were written for."
+        ]
+      },
+      {
+        "id": "rifts",
+        "heading": "How to Enter The Sift in Dungeons II",
+        "paragraphs": [
+          "The official gameplay trailer describes stepping through rifts to enter The Sift. The Minecraft Live recap places those rifts in the sequel’s interconnected world. Together, those explanations establish the connection between the Overworld adventure and the new dimension.",
+          "A broad overview should not substitute a made-up sequence of quests or coordinates for that confirmed connection. If you need a detailed walkthrough, match it to your current place in Dungeons II. A community portal recipe for Java or Bedrock is not an alternative route through this game."
+        ],
+        "links": [
+          {
+            "slug": "how-to-enter",
+            "label": "How to enter The Sift"
+          }
+        ]
+      },
+      {
+        "id": "areas",
+        "heading": "The Sift Areas and Biomes",
+        "paragraphs": [
+          "Meadow or Meadows and Carapace are named in official Dungeons II coverage. The Live recap uses Meadow, while Xbox Wire uses Meadows. Both sources discuss The Sift in the context of the sequel. The names are a useful introduction to the setting without implying that these are the only areas to explore.",
+          "Read the area guide for those names and their source context. It keeps place identification separate from resource locations, creature spawn rules and boss placement. A scenic environment can be recognizable without supporting a detailed farming route or a complete list of obtainable blocks."
+        ],
+        "links": [
+          {
+            "slug": "biomes",
+            "label": "Meadows, Carapace and other areas"
+          }
+        ]
+      },
+      {
+        "id": "creatures",
+        "heading": "Mobs in The Sift",
+        "paragraphs": [
+          "The released dimension includes strange beings that can be friendly or hostile. That description comes from official launch coverage. It gives the setting an ecosystem beyond the enemies a player fights, and it explains why creature guides need more context than a single mixed list.",
+          "Our mobs page labels the game behind each entry. A creature shown in Dungeons II, a creature added by Mielon’s mod and a future vanilla creature should not be merged merely because they share a name. In particular, taming instructions, drops and combat values from a mod do not automatically apply to the official sequel."
+        ],
+        "links": [
+          {
+            "slug": "mobs",
+            "label": "The Sift creatures guide"
+          }
+        ]
+      },
+      {
+        "id": "encounters",
+        "heading": "Bosses in The Sift",
+        "paragraphs": [
+          "The boss guide focuses on named Dungeons II encounters and separates them from the sequel’s wider roster. Seeing a boss in Dungeons II does not establish that the encounter happens inside The Sift. Location and progression context matter as much as the game title.",
+          "The dedicated page also distinguishes bosses from mini-bosses where the released-game reference makes that distinction. It avoids supplying a universal combat build, damage table or drop list from launch-week claims. Use it to identify the encounter and its setting before choosing a more detailed walkthrough."
+        ],
+        "links": [
+          {
+            "slug": "bosses",
+            "label": "The Sift boss encounters"
+          }
+        ]
+      },
+      {
+        "id": "conditions",
+        "heading": "Shifting Tides, Hazards and Dimension Mechanics",
+        "paragraphs": [
+          "Xbox Wire describes shifting tides that can affect the player and surrounding characters, along with hazardous blocks that change exploration. These are Dungeons II setting details. The announcement does not supply a universal timing formula, a complete list of effects or a block-by-block interaction manual.",
+          "For exploration, treat conditions and terrain as part of what you need to observe while playing. A short description of a hazard is not enough to assume a damage value or a safe movement route. Pay attention to what your current game is showing rather than using a rule copied from a fan-made recreation.",
+          "The important link between these details is that The Sift has its own rules. The rift takes you into a setting where familiar assumptions may need testing. That does not mean every visual change is a separate biome, every creature is hostile or every block has a confirmed equivalent in the future Java and Bedrock dimension."
+        ]
+      },
+      {
+        "id": "vanilla",
+        "heading": "How Dungeons II’s Sift Differs From Java & Bedrock",
+        "paragraphs": [
+          "Dungeons II’s version is available now. Java and Bedrock are announced for 2027, with no exact date or revealed vanilla access method. These are different release contexts, even though the same dimension connects them.",
+          "When reading guides, keep the edition attached to the claim. An official Dungeons II announcement can explain the sequel’s rifts, while the vanilla announcement establishes that the setting is coming to the main game. Neither lets a reader transfer a complete combat roster, progression system or portal route between games.",
+          "Community projects form a third category. They can borrow visual ideas or creature names while choosing their own mechanics. If you want to explore a recreation in a survival world, use the mods page and its creator links. If you want to play the official released dimension, continue with Dungeons II-specific guides."
+        ],
+        "links": [
+          {
+            "slug": "release-date",
+            "label": "Release date and edition status"
+          },
+          {
+            "slug": "mods",
+            "label": "Java mods and Bedrock add-ons"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "paragraphs": [],
+        "sources": [
+          {
+            "label": "Minecraft Dungeons II launch announcement",
+            "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-is-live"
+          },
+          {
+            "label": "Minecraft Dungeons II gameplay trailer",
+            "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-gameplay-trailer"
+          },
+          {
+            "label": "Minecraft Live September 2026 recap",
+            "url": "https://www.minecraft.net/en-us/article/mclive_sept2026_recap"
+          },
+          {
+            "label": "Xbox Wire: The Sift announcement",
+            "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is The Sift in Minecraft Dungeons II?",
+        "answer": "Yes. The official launch announcement includes The Sift as a playable dimension in Dungeons II, released September 29, 2026."
+      },
+      {
+        "question": "How do you reach The Sift in Dungeons II?",
+        "answer": "Official coverage describes entering through rifts. Java mod portal recipes belong to different installations and do not describe Dungeons II access."
+      },
+      {
+        "question": "Is this the same as the 2027 vanilla version?",
+        "answer": "It is the same announced dimension setting across different games. The future Java and Bedrock implementation should not be assumed to share every Dungeons II mechanic."
+      },
+      {
+        "question": "What biomes or areas are confirmed?",
+        "answer": "Official Dungeons II coverage names Meadow or Meadows and Carapace. These examples should not be treated as a complete biome count."
+      },
+      {
+        "question": "Does The Sift have unique creatures?",
+        "answer": "Official material describes unique friendly and hostile beings. The mobs page keeps released-game and community entries in their proper contexts."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-enter",
+      "mobs",
+      "biomes",
+      "bosses",
+      "release-date"
+    ],
+    "lastReviewed": "2026-10-02"
+  },
+  {
+    "enabled": true,
+    "slug": "mobs",
+    "pageType": "article",
+    "navLabel": "Mobs",
+    "title": "The Sift Minecraft Mobs: Confirmed Creatures Guide",
+    "description": "See the confirmed creatures connected to The Sift, separated by Minecraft Dungeons II, future Java/Bedrock content, and unofficial community mods.",
+    "keywords": [
+      "the sift minecraft mobs"
+    ],
+    "primaryKeyword": "the sift minecraft mobs",
+    "secondaryKeywords": [],
+    "navVisible": true,
+    "hero": {
+      "heading": "The Sift Minecraft Mobs",
+      "lead": "Mojang confirms that The Sift has unique friendly and hostile creatures. Keep the Dungeons II roster separate from the still-developing 2027 Java/Bedrock version, because not every creature is confirmed to carry across."
+    },
+    "sections": [
+      {
+        "id": "inhabitants",
+        "heading": "What Mobs Live in The Sift?",
+        "paragraphs": [
+          "The useful answer starts with the edition. Minecraft Dungeons II has a released dimension with its own inhabitants. The future Java and Bedrock dimension is announced, but its complete creature roster has not been revealed. Community recreations have their own lists and behavior rules.",
+          "If you want to identify a creature from footage, read the game title and the project name before looking for a spawn guide. Similar names across games do not establish identical behavior. A friendly encounter, hostile variant or custom companion mechanic needs the context of the game in which it appears."
+        ]
+      },
+      {
+        "id": "dungeons-mobs",
+        "heading": "The Sift Mobs in Minecraft Dungeons II",
+        "paragraphs": [
+          "The official launch article describes both friendly and hostile beings and captions an image as heroes facing hostile sifters. That supplies a named hostile creature context without establishing a full bestiary. Released-game references also list Blub. The table below is a short introduction, rather than a claim to list every species.",
+          "For a creature not listed here, use a current Dungeons II reference and match the visible name or encounter. Avoid guessing a creature’s friendliness from its appearance alone. A roster table should not imply that every creature can be tamed, farmed or encountered in every named area."
+        ],
+        "table": {
+          "caption": "Selected Dungeons II creature references",
+          "columns": [
+            "Name",
+            "Context",
+            "Classification",
+            "Reference"
+          ],
+          "rows": [
+            [
+              "Sifter",
+              "Shown in official launch imagery",
+              "Hostile in the captioned encounter",
+              "Minecraft Dungeons II launch announcement"
+            ],
+            [
+              "Blub",
+              "Listed in released-game creature reference",
+              "Behavior not detailed here",
+              "dungeons.tools Dungeons II enemy entry"
+            ]
+          ]
+        },
+        "sources": [
+          {
+            "label": "Dungeons II: Blub creature reference",
+            "url": "https://www.dungeons.tools/2/enemies/blub"
+          }
+        ]
+      },
+      {
+        "id": "future-mobs",
+        "heading": "The Sift Mobs Coming to Java and Bedrock",
+        "paragraphs": [
+          "The Minecraft Live recap describes an in-development glimpse of The Sift in Minecraft, including one of its inhabitants. It does not present a complete vanilla creature list. The future dimension is confirmed; a full transfer of the Dungeons II roster is not.",
+          "For players planning a survival world, this means creature-specific plans should wait for edition release information. A Dungeons II encounter can inspire ideas, but it is not enough to establish future spawn conditions, breeding, taming, item interactions or farms. Each of those needs an announced or released vanilla mechanic."
+        ],
+        "links": [
+          {
+            "slug": "release-date",
+            "label": "Release date and edition status"
+          }
+        ]
+      },
+      {
+        "id": "comparison",
+        "heading": "Dungeons II Mobs vs Vanilla Mobs",
+        "paragraphs": [
+          "A creature guide can be accurate for Dungeons II and still be unsuitable for future vanilla Minecraft. The action-RPG encounter and the survival-world implementation have different uses for a creature, even if the design or name is related.",
+          "Keep three pieces of information together when comparing an entry: the name, the game or project, and the behavior actually described in that context. Do not copy a mod’s custom item interaction into a Dungeons II guide, or use a sequel combat description as a vanilla spawn rule. This is especially useful when several videos use the broad title “The Sift mobs” without naming an edition."
+        ],
+        "table": {
+          "caption": "How to read a creature claim",
+          "columns": [
+            "Claim context",
+            "What it tells you",
+            "What it does not establish"
+          ],
+          "rows": [
+            [
+              "Dungeons II",
+              "A creature or encounter in the released sequel",
+              "Automatic inclusion in future vanilla"
+            ],
+            [
+              "Java / Bedrock reveal",
+              "The official future dimension",
+              "The full Dungeons II roster"
+            ],
+            [
+              "Community mod / add-on",
+              "That creator’s implementation",
+              "Mojang’s future behavior rules"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "community-creatures",
+        "heading": "Community Mod Mobs",
+        "paragraphs": [
+          "Mielon’s The Sift lists creatures including Singer, Echo Golem and Blub in its own project description. Read those as mod entries. The creator explicitly frames the project as an interpretation of the dimension, which makes its custom mechanics useful for that project rather than a preview manual for vanilla.",
+          "When you need a mod creature interaction, follow the description for the file you installed. Check whether a tutorial concerns the same project and version before trying its instructions. Bedrock recreations are separate projects again; a Java creature mechanic is not a Bedrock add-on requirement."
+        ],
+        "links": [
+          {
+            "slug": "mods",
+            "label": "Java mods and Bedrock add-ons"
+          }
+        ]
+      },
+      {
+        "id": "boss-creatures",
+        "heading": "The Sift Bosses",
+        "paragraphs": [
+          "Boss encounters need their own guide because a boss name carries location and progression questions as well as creature identity. Our boss page distinguishes The Sift encounters from bosses elsewhere in Dungeons II and avoids treating the entire sequel roster as dimension residents.",
+          "Use the area guide alongside creature identification when exploring, but do not infer a spawn map from two separate lists. A named biome and a named mob do not automatically establish where that creature appears. Follow a current released-game location reference when you need that relationship."
+        ],
+        "links": [
+          {
+            "slug": "bosses",
+            "label": "The Sift boss encounters"
+          },
+          {
+            "slug": "biomes",
+            "label": "Meadows, Carapace and other areas"
+          },
+          {
+            "slug": "minecraft-dungeons-2",
+            "label": "The Sift in Dungeons II"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "paragraphs": [],
+        "sources": [
+          {
+            "label": "Minecraft Dungeons II launch announcement",
+            "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-is-live"
+          },
+          {
+            "label": "Minecraft Live September 2026 recap",
+            "url": "https://www.minecraft.net/en-us/article/mclive_sept2026_recap"
+          },
+          {
+            "label": "Mielon’s The Sift on CurseForge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What mobs are in The Sift?",
+        "answer": "Official Dungeons II material confirms friendly and hostile inhabitants, including hostile sifters shown in launch imagery. The table introduces selected names rather than a complete roster."
+      },
+      {
+        "question": "Are The Sift mobs coming to Java and Bedrock?",
+        "answer": "The dimension is coming in 2027, but the full future creature roster has not been announced. Do not assume every Dungeons II entry will transfer."
+      },
+      {
+        "question": "Are mod creature names official?",
+        "answer": "A mod description confirms what belongs to that community project. It does not make the creature’s mod behavior an official vanilla mechanic."
+      },
+      {
+        "question": "Does The Sift have friendly mobs?",
+        "answer": "Yes. Official Dungeons II launch coverage describes friendly as well as hostile beings. Check an individual creature’s game context before following interaction advice."
+      },
+      {
+        "question": "Where can I find boss and biome guides?",
+        "answer": "Use the linked bosses and biomes pages for their distinct encounter and area contexts. Neither page assigns unsupported spawns, drops or combat values."
+      }
+    ],
+    "relatedSlugs": [
+      "minecraft-dungeons-2",
+      "biomes",
+      "bosses",
+      "mods"
+    ],
+    "lastReviewed": "2026-10-02"
+  },
+  {
+    "enabled": true,
+    "slug": "biomes",
+    "pageType": "article",
+    "navLabel": "Biomes",
+    "title": "The Sift Minecraft Biomes: Meadows, Carapace & More",
+    "description": "Explore The Sift biomes and areas confirmed for Minecraft Dungeons II, including Meadows and Carapace, plus what is known about the 2027 vanilla version.",
+    "keywords": [
+      "the sift minecraft biomes"
+    ],
+    "primaryKeyword": "the sift minecraft biomes",
+    "secondaryKeywords": [],
+    "navVisible": true,
+    "hero": {
+      "heading": "The Sift Minecraft Biomes",
+      "lead": "Official Dungeons II coverage names The Sift areas and biomes including Meadows and Carapace. The full 2027 Java/Bedrock biome roster has not been announced, so community-mod biome names should not be treated as vanilla facts."
+    },
+    "sections": [
+      {
+        "id": "areas",
+        "heading": "Confirmed The Sift Biomes and Areas",
+        "paragraphs": [
+          "Meadows and Carapace are named in Xbox Wire’s official Dungeons II coverage. The Minecraft Live recap also names Meadow and Carapace. These are confirmed place names in the sequel’s dimension, rather than a full list of future vanilla biomes.",
+          "The word area can be more useful than forcing every location into a vanilla biome category. Dungeons II has its own world structure, while a Java or Bedrock biome list needs information from that game’s implementation. The table keeps the source’s context attached to each name."
+        ],
+        "table": {
+          "caption": "Officially named Dungeons II areas",
+          "columns": [
+            "Area / biome",
+            "Edition / context",
+            "What is officially known"
+          ],
+          "rows": [
+            [
+              "Meadows / Meadow",
+              "Minecraft Dungeons II",
+              "Named in Xbox Wire and the Minecraft Live recap"
+            ],
+            [
+              "Carapace",
+              "Minecraft Dungeons II",
+              "Named in both official dimension introductions"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "meadows",
+        "heading": "Meadows / Meadow",
+        "paragraphs": [
+          "Xbox Wire uses Meadows, while the Live recap uses Meadow and later describes the aftershow exploring the Meadows. When comparing those articles, keep their wording in mind rather than assuming that a singular and plural name must represent separate biomes.",
+          "The official references establish this as an area of The Sift in Dungeons II. They do not provide a complete resource catalogue or a reliable creature spawn table for that area. A name is enough to identify the setting in a broad guide; detailed route planning requires a released-game location reference.",
+          "If you are looking for a vanilla seed or a Java biome identifier, these Dungeons II references do not supply one. Wait for the future Java and Bedrock implementation, or identify the exact community mod if you are exploring a recreation now."
+        ]
+      },
+      {
+        "id": "carapace",
+        "heading": "Carapace",
+        "paragraphs": [
+          "Carapace is another name used in official Dungeons II introductions to the dimension. The sources present it alongside Meadows as part of The Sift’s environments. That confirms the setting connection without establishing a full account of its resources, routes or encounters.",
+          "Do not derive a boss location, portal destination or block recipe simply from the area’s name. Those are separate claims. For a player exploring the released sequel, use the name to orient a more detailed Dungeons II search, then check that the guide concerns the location and part of the game you actually mean.",
+          "For Java and Bedrock, Carapace appearing in Dungeons II coverage is not an announcement of a biome identifier or generation rule. A future vanilla reveal can answer that question when it describes the actual implementation."
+        ]
+      },
+      {
+        "id": "vanilla-landscapes",
+        "heading": "What Has Been Shown for Java and Bedrock?",
+        "paragraphs": [
+          "The Minecraft Live recap describes an in-development look at The Sift running in Minecraft. That confirms more than a logo or title announcement, but it does not provide a complete biome roster. The 2027 window is the useful release fact for both editions.",
+          "A visual glimpse should not be converted into an exact biome count. Different terrain, lighting or vegetation in a reveal can suggest variety without naming individual biomes. Keep the official future announcement separate from a released Dungeons II area guide and from a creator’s custom terrain list."
+        ],
+        "links": [
+          {
+            "slug": "release-date",
+            "label": "Release date and edition status"
+          },
+          {
+            "slug": "minecraft-dungeons-2",
+            "label": "The Sift in Dungeons II"
+          }
+        ]
+      },
+      {
+        "id": "mod-terrain",
+        "heading": "Mod Biomes Are Different",
+        "paragraphs": [
+          "A community mod can define its own terrain and biome roster. Mielon’s project description is the place to read about that Java mod’s interpretation. Its names and generation choices describe the installed mod rather than Mojang’s future vanilla dimension.",
+          "This distinction matters when searching for a seed, a resource or a particular landscape. First identify the project, supported game version and file you installed. A guide to another recreation may not help, even if the screenshots use the same dimension name. Bedrock add-on worlds and Java mod terrain should also be treated separately."
+        ],
+        "links": [
+          {
+            "slug": "mods",
+            "label": "Java mods and Bedrock add-ons"
+          }
+        ]
+      },
+      {
+        "id": "inhabitants",
+        "heading": "Mobs and Bosses by Area",
+        "paragraphs": [
+          "The mobs and bosses guides answer creature and encounter questions. They can be read alongside this area introduction, but a list of creatures plus a list of areas is not automatically a map connecting them. A reliable location relationship needs a released-game reference.",
+          "For an exploration question, start with the game and area name. For an encounter question, add the creature or boss name. That makes a detailed search more precise and reduces the chance of following a mod guide while playing Dungeons II. This page does not assign unannounced spawn rates, farming routes or boss arenas to the named areas."
+        ],
+        "links": [
+          {
+            "slug": "mobs",
+            "label": "The Sift creatures guide"
+          },
+          {
+            "slug": "bosses",
+            "label": "The Sift boss encounters"
+          },
+          {
+            "slug": "how-to-enter",
+            "label": "How to enter The Sift"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "paragraphs": [],
+        "sources": [
+          {
+            "label": "Minecraft Live September 2026 recap",
+            "url": "https://www.minecraft.net/en-us/article/mclive_sept2026_recap"
+          },
+          {
+            "label": "Xbox Wire: The Sift announcement",
+            "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/"
+          },
+          {
+            "label": "Mielon’s The Sift on CurseForge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What biomes are in The Sift?",
+        "answer": "Official Dungeons II introductions name Meadows or Meadow and Carapace. The table lists those confirmed examples rather than a complete dimension catalogue."
+      },
+      {
+        "question": "Are Meadows and Carapace official?",
+        "answer": "Yes, in Dungeons II coverage. Those references do not establish a final 2027 Java or Bedrock biome list."
+      },
+      {
+        "question": "How many Sift biomes are there?",
+        "answer": "The linked official introduction does not publish a complete count. A community project’s biome count describes that project and should not be reused as a vanilla total."
+      },
+      {
+        "question": "Will Java and Bedrock have the same biomes?",
+        "answer": "Both editions are announced for 2027, but their full biome roster and generation details have not been revealed in the linked sources."
+      },
+      {
+        "question": "Are mod biomes official Minecraft biomes?",
+        "answer": "No. They are part of a creator’s implementation. Use that creator’s documentation for names, terrain and compatibility in the installed project."
+      }
+    ],
+    "relatedSlugs": [
+      "minecraft-dungeons-2",
+      "mobs",
+      "bosses",
+      "mods"
+    ],
+    "lastReviewed": "2026-10-02"
+  },
+  {
+    "enabled": true,
+    "slug": "mods",
+    "pageType": "article",
+    "navLabel": "Mods",
+    "title": "The Sift Minecraft Mod & Bedrock Add-On Guide",
+    "description": "Compare The Sift mods and Bedrock add-ons, including Mielon's The Sift, compatibility, installation sources, and how they differ from Mojang's version.",
+    "keywords": [
+      "the sift minecraft mod and bedrock add-ons"
+    ],
+    "primaryKeyword": "the sift minecraft mod and bedrock add-ons",
+    "secondaryKeywords": [],
+    "navVisible": true,
+    "hero": {
+      "heading": "The Sift Minecraft Mod and Bedrock Add-Ons",
+      "lead": "Community creators have already made unofficial The Sift mods and add-ons. Java players can find projects such as Mielon’s The Sift, while Bedrock has separate add-ons with their own mechanics and portal rules."
+    },
+    "sections": [
+      {
+        "id": "official-community",
+        "heading": "Official The Sift vs Community Mods",
+        "paragraphs": [
+          "The official playable dimension is in Minecraft Dungeons II. Mojang has also announced The Sift for Java and Bedrock in 2027. A community mod or add-on is a separate implementation you choose to install, with its own compatibility and travel instructions.",
+          "That distinction does not make a recreation less enjoyable. It tells you which rules to expect and where to get support. Use Mojang’s announcements for the official release window, and a project’s creator page for its files, dependencies and current gameplay instructions."
+        ],
+        "table": {
+          "caption": "Four different ways The Sift appears",
+          "columns": [
+            "Experience",
+            "Publisher / creator context",
+            "Availability"
+          ],
+          "rows": [
+            [
+              "Minecraft Dungeons II",
+              "Official Mojang game",
+              "Playable now"
+            ],
+            [
+              "Vanilla Java / Bedrock",
+              "Official future implementation",
+              "Announced for 2027"
+            ],
+            [
+              "Java mods",
+              "Community interpretation",
+              "Project-specific files and loaders"
+            ],
+            [
+              "Bedrock add-ons",
+              "Community recreation",
+              "Project-specific packages and world setup"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "mielon",
+        "heading": "Mielon’s The Sift for Java",
+        "paragraphs": [
+          "Mielon’s The Sift is a Java community project on CurseForge. The creator describes it as an interpretation, rather than an exact replica of the official dimension. That statement is central to understanding why its portal, terrain and creature interactions should be read as mod features.",
+          "The project lists Fabric, Forge and NeoForge support across different Minecraft files. This does not mean one download works with every loader. Select a file for your exact game version and loader, then read its dependency requirements. The creator’s current file listing is more useful than a frozen download count or a general claim that a mod supports Java.",
+          "Keep a separate profile for testing if you want to preserve an existing setup. Record the chosen game version, loader and file together so you can reproduce the installation or identify it when asking for help. Do not combine instructions from a Fabric file and a different Forge release without checking the creator’s documentation."
+        ],
+        "sources": [
+          {
+            "label": "Mielon’s The Sift on CurseForge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift"
+          }
+        ]
+      },
+      {
+        "id": "bedrock-addon",
+        "heading": "The Sift Bedrock Add-On",
+        "paragraphs": [
+          "The Sift Dimension add-on is a separate Bedrock community recreation by trotamundos872, linked from CurseForge. Its description labels the project as beta. Use that page to identify the creator, current package and supported version information before trying it in a world.",
+          "An add-on has its own setup and travel instructions. It is not a Java loader mod and should not be installed by following a Java guide. It also does not make the future Mojang dimension available as an official game update. Read any beta limitations and test it in a copy of a world you can afford to experiment with.",
+          "Use the creator’s source for downloads and updates. This guide links to the project rather than redistributing packages. That keeps file selection and project instructions together, where the creator can revise them when compatibility changes."
+        ],
+        "sources": [
+          {
+            "label": "The Sift Dimension Bedrock add-on on CurseForge",
+            "url": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift"
+          }
+        ]
+      },
+      {
+        "id": "mod-portals",
+        "heading": "Portal Methods Depend on the Mod",
+        "paragraphs": [
+          "Mielon’s Java project describes an Ancient City method involving sound and custom blocks. The linked Bedrock add-on describes a different Ancient City activation method and a project-specific travel command. These are two separate systems, not two versions of an official vanilla recipe.",
+          "Follow the instructions for your installed project and file. A step requiring a custom block cannot be applied in a world that does not contain that mod’s content. A Bedrock command belongs to that add-on’s setup; its existence does not prove that the main game has a hidden Sift travel command.",
+          "Neither project establishes how Mojang will implement travel in 2027. If you are looking for the official future portal, the answer remains that the Java and Bedrock entry method has not been revealed. If you are looking for a working recreation, the creator’s documentation is the correct place to continue."
+        ],
+        "links": [
+          {
+            "slug": "how-to-enter",
+            "label": "How to enter The Sift"
+          }
+        ]
+      },
+      {
+        "id": "choose-version",
+        "heading": "How to Choose the Right Version",
+        "paragraphs": [
+          "Choose the edition before choosing the file. Java Edition uses mods with loader and dependency requirements. Bedrock uses its own add-on packages and world configuration. A file extension or project title alone is not enough to determine compatibility.",
+          "Next, match your game version to the creator’s supported file. Read requirements before installing optional extras, and use the creator’s current instructions for any dependencies. If a tutorial demonstrates an older release, compare it with the current project description before assuming its setup still applies.",
+          "Back up worlds before trying beta or community content. A separate test world gives you room to check that the project loads and its travel method works before adding it to a long-running save. For multiplayer, agree on the project and version rather than assuming that every recreation with The Sift in its name is compatible.",
+          "If the goal is simply to play Mojang’s released dimension, Dungeons II is the official option available now. If the goal is the future vanilla survival experience, monitor the announced 2027 release. A community recreation is an optional experience with its own design, rather than a prerequisite for either official game."
+        ],
+        "bullets": [
+          "Check Java versus Bedrock before downloading.",
+          "Match the exact supported Minecraft version.",
+          "For Java, match the loader and required dependencies.",
+          "For Bedrock, read the creator’s package and world setup instructions.",
+          "Back up a world before trying beta content.",
+          "Download from the creator’s project page."
+        ],
+        "links": [
+          {
+            "slug": "release-date",
+            "label": "Release date and edition status"
+          },
+          {
+            "slug": "minecraft-dungeons-2",
+            "label": "The Sift in Dungeons II"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "paragraphs": [],
+        "sources": [
+          {
+            "label": "Mielon’s The Sift on CurseForge",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mielons-the-sift"
+          },
+          {
+            "label": "The Sift Dimension Bedrock add-on on CurseForge",
+            "url": "https://www.curseforge.com/minecraft-bedrock/addons/the-sift"
+          },
+          {
+            "label": "Minecraft Live September 2026 recap",
+            "url": "https://www.minecraft.net/en-us/article/mclive_sept2026_recap"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is The Sift Minecraft mod official?",
+        "answer": "No. Community projects are independent recreations or interpretations. Mojang’s official playable dimension is in Dungeons II, with Java and Bedrock announced for 2027."
+      },
+      {
+        "question": "Is there a Sift mod for Java?",
+        "answer": "Yes. Mielon’s The Sift is linked on CurseForge. Choose a file for your Minecraft version and loader, and follow the creator’s dependencies and instructions."
+      },
+      {
+        "question": "Is there a Sift add-on for Bedrock?",
+        "answer": "Yes. The linked The Sift Dimension add-on is a community beta recreation. Its mechanics and package requirements belong to that project."
+      },
+      {
+        "question": "Does the Ancient City portal work in vanilla Minecraft?",
+        "answer": "The methods described by the linked creators require their community content. They do not establish an official vanilla Sift portal method."
+      },
+      {
+        "question": "Is the mod the same as the Dungeons II dimension?",
+        "answer": "No. Mielon explicitly describes the Java mod as an interpretation rather than an exact replica. Dungeons II is the official released game context."
+      },
+      {
+        "question": "Will I still need a mod in 2027?",
+        "answer": "Mojang has announced an official Java and Bedrock dimension for 2027. Community mods remain separate choices; the future official release will have its own requirements and instructions."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-enter",
+      "release-date",
+      "minecraft-dungeons-2"
+    ],
+    "lastReviewed": "2026-10-02"
+  },
+  {
+    "enabled": true,
+    "slug": "bosses",
+    "pageType": "article",
+    "navLabel": "Bosses",
+    "title": "The Sift Minecraft Bosses: Dungeons II Guide",
+    "description": "Guide to The Sift bosses in Minecraft Dungeons II, with source-backed names, encounter context, and a clear separation from future Java and Bedrock content.",
+    "keywords": [
+      "the sift minecraft bosses"
+    ],
+    "primaryKeyword": "the sift minecraft bosses",
+    "secondaryKeywords": [],
+    "navVisible": true,
+    "hero": {
+      "heading": "The Sift Minecraft Bosses",
+      "lead": "This page covers The Sift boss encounters in Minecraft Dungeons II. Do not treat Dungeons II bosses as a confirmed boss roster for the 2027 Java/Bedrock version."
+    },
+    "sections": [
+      {
+        "id": "sift-bosses",
+        "heading": "Which Bosses Are in The Sift?",
+        "paragraphs": [
+          "Monarch, Sculk Monstrosity and Harmonizer are names associated with The Sift in Dungeons II encounter references. The released-game database linked below distinguishes full bosses from mini-bosses, so the table preserves that difference rather than treating every large enemy as the same type of encounter.",
+          "This is a focused introduction to those names, not a claim that every Dungeons II boss belongs to The Sift. It also does not publish a fixed health, damage or loot table. A detailed combat guide needs the actual encounter and game context before numerical advice can be useful."
+        ],
+        "table": {
+          "caption": "Named Dungeons II encounter references",
+          "columns": [
+            "Encounter",
+            "The Sift context",
+            "What the released-game reference supports"
+          ],
+          "rows": [
+            [
+              "Monarch",
+              "Ravines story encounter",
+              "Story encounter: Wrath of the Sculkers"
+            ],
+            [
+              "Sculk Monstrosity",
+              "Singer’s Meadow encounter",
+              "Story encounter: A Monstrosity in the Meadow"
+            ],
+            [
+              "Harmonizer",
+              "Singer’s Meadow encounter",
+              "Mini-boss; side quest: Rage of the Sifters"
+            ]
+          ]
+        },
+        "sources": [
+          {
+            "label": "Dungeons II boss reference",
+            "url": "https://www.dungeons.tools/2/bosses"
+          },
+          {
+            "label": "Sculk Monstrosity encounter reference",
+            "url": "https://www.dungeons.tools/2/enemies/sculk-monstrosity"
+          },
+          {
+            "label": "Harmonizer encounter reference",
+            "url": "https://www.dungeons.tools/2/enemies/harmonizer"
+          }
+        ]
+      },
+      {
+        "id": "full-roster",
+        "heading": "The Sift Bosses vs the Full Dungeons II Boss Roster",
+        "paragraphs": [
+          "Dungeons II explores more than one setting. A boss can belong to the sequel without being a Sift boss. Keep a location reference attached to an encounter instead of importing a complete list from a general Dungeons II page.",
+          "The Twisted Warden is a useful example. The released-game reference places its story encounter, Down into the Deep Dark, in The Deep Dark. That is its correct context here; this page does not put it into the dimension table simply because it appears in the same game or is discussed alongside rift travel.",
+          "A wider roster is useful when you want every boss in the sequel. A Sift-specific roster is useful when you are identifying encounters in this dimension. Those are different questions, and merging them makes both lists less helpful."
+        ],
+        "sources": [
+          {
+            "label": "Twisted Warden: Deep Dark encounter reference",
+            "url": "https://www.dungeons.tools/2/enemies/twisted-warden"
+          }
+        ],
+        "links": [
+          {
+            "slug": "minecraft-dungeons-2",
+            "label": "The Sift in Dungeons II"
+          }
+        ]
+      },
+      {
+        "id": "progression",
+        "heading": "Boss Encounters and Progression",
+        "paragraphs": [
+          "The Sculk Monstrosity reference names a story encounter in Singer’s Meadow. The Harmonizer reference names a side quest there and classifies the creature as a mini-boss. These details help identify the encounter without supplying a made-up chain of quest gates or a universal travel route.",
+          "Before following a walkthrough, match the encounter name to your current quest and location. A guide may describe a story fight, a repeat encounter or a different part of the sequel. Advice written for one context should not be assumed to explain every appearance of the creature.",
+          "Use the access guide if your question is how to reach The Sift at all. Use an encounter reference if your question is which boss you are seeing. Travel instructions and combat instructions solve different problems, and an Ancient City mod portal guide does not resolve a Dungeons II progression question."
+        ],
+        "links": [
+          {
+            "slug": "how-to-enter",
+            "label": "How to enter The Sift"
+          }
+        ]
+      },
+      {
+        "id": "vanilla-bosses",
+        "heading": "Are These Bosses Coming to Java and Bedrock?",
+        "paragraphs": [
+          "The future Java and Bedrock dimension is announced for 2027. The official announcement does not confirm a complete vanilla boss roster. A named Dungeons II boss should therefore remain a Dungeons II entry until Mojang provides specific vanilla details.",
+          "Even if a design is reused, an action-RPG encounter does not establish survival-world summoning, health, drops or progression. Those would be separate mechanics requiring their own explanation. Do not prepare a supposed summoning recipe or farm route based only on a sequel encounter name.",
+          "Community recreations can also include bosses inspired by the setting. Read their documentation as instructions for the installed project. A creator’s combat design is not evidence that the same boss or attack sequence will appear in the official Java and Bedrock dimension."
+        ],
+        "links": [
+          {
+            "slug": "release-date",
+            "label": "Release date and edition status"
+          },
+          {
+            "slug": "mods",
+            "label": "Java mods and Bedrock add-ons"
+          }
+        ]
+      },
+      {
+        "id": "related-world",
+        "heading": "Related Mobs and Biomes",
+        "paragraphs": [
+          "For creatures outside these encounters, use the mobs page. It explains the difference between named released-game creatures, future vanilla content and mod inhabitants. For the setting itself, the biomes guide covers Meadows and Carapace in their official Dungeons II context.",
+          "Reading those pages together gives you a useful introduction without pretending to supply a complete spawn map. A creature, boss and biome should only be connected by a specific location reference. This keeps the guide useful for identifying what you have encountered while avoiding unsupported arena assignments or farming advice."
+        ],
+        "links": [
+          {
+            "slug": "mobs",
+            "label": "The Sift creatures guide"
+          },
+          {
+            "slug": "biomes",
+            "label": "Meadows, Carapace and other areas"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "paragraphs": [],
+        "sources": [
+          {
+            "label": "Minecraft Dungeons II launch announcement",
+            "url": "https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-is-live"
+          },
+          {
+            "label": "Minecraft Live September 2026 recap",
+            "url": "https://www.minecraft.net/en-us/article/mclive_sept2026_recap"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What bosses are in The Sift?",
+        "answer": "The named encounter introduction covers Monarch, Sculk Monstrosity and Harmonizer in Dungeons II context. Harmonizer is classified as a mini-boss in the linked released-game reference."
+      },
+      {
+        "question": "Are The Sift bosses only in Minecraft Dungeons II?",
+        "answer": "The encounters described here belong to Dungeons II. The future official Java and Bedrock boss roster has not been announced."
+      },
+      {
+        "question": "Is the Twisted Warden a Sift boss?",
+        "answer": "The linked released-game reference places its story encounter in The Deep Dark. It is kept outside this page’s Sift encounter table rather than merged into the dimension roster."
+      },
+      {
+        "question": "Are these bosses confirmed for vanilla Minecraft?",
+        "answer": "No full transfer of these encounters is announced. The 2027 dimension announcement does not establish vanilla health, summoning methods, drops or combat phases."
+      },
+      {
+        "question": "Where can I find The Sift mobs and biomes?",
+        "answer": "Use the linked mobs and biomes guides. They keep each creature and area in its proper game context without inventing a complete boss or spawn map."
+      }
+    ],
+    "relatedSlugs": [
+      "minecraft-dungeons-2",
+      "mobs",
+      "biomes",
+      "how-to-enter"
+    ],
+    "lastReviewed": "2026-10-02"
+  }
+]

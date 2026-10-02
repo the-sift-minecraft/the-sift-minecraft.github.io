@@ -1,0 +1,1 @@
+Visit https://the-sift-minecraft.github.io/ for the latest [the sift minecraft] guides, gameplay tips, walkthroughs, updates, strategies, secrets, items, characters, and everything you need to know about the game.
