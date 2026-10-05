@@ -144,7 +144,19 @@ html[data-header-style="border"] .site-nav-link {
   border-radius: 0;
 }
 
-[data-native-ad-slot]:empty { display: none; }
+/* Reserve banner space while loading; collapse no-fill without labels or gaps. */
+.ad-slot { min-width: 0; max-width: 100%; margin: 18px 0; text-align: center; }
+.ad-label { display: block; margin-bottom: 6px; color: hsl(var(--muted-foreground)); font-size: 10px; line-height: 14px; letter-spacing: .08em; }
+.ad-host { position: relative; width: 100%; overflow: hidden; }
+.ad-host > iframe { display: block; margin: 0 auto; border: 0; max-width: none; transform-origin: top left; }
+.ad-slot-banner .ad-host { min-height: var(--ad-reserved-height, 50px); }
+.ad-slot-native { margin: 18px 0 !important; border-block: 1px solid hsl(var(--border)); padding: 10px 0; }
+.ad-slot-native[data-ad-state="loading"], .ad-slot[data-ad-state="empty"] { margin: 0 !important; padding: 0; border: 0; height: 0; overflow: hidden; }
+.ad-slot-native[data-ad-state="loading"] .ad-label, .ad-slot[data-ad-state="empty"] .ad-label { display: none; }
+.ad-slot[data-ad-state="empty"] .ad-host { min-height: 0; }
+@media (min-width: 768px) {
+  .ad-slot-banner .ad-host { min-height: var(--ad-reserved-height, 90px); }
+}
 
 /* Wiki skin — denser editorial layout. Unprefixed rules above stay portal defaults. */
 html[data-skin="wiki"] .site-container {
@@ -569,7 +581,7 @@ body[data-fixed-template="wiki"] :focus-visible { outline: 2px solid #83b5ff; ou
   body[data-fixed-template="wiki"] .main { display: block; }
   body[data-fixed-template="wiki"] .launch-home .hero { padding: 20px 0; }
   body[data-fixed-template="wiki"] .lead { font-size: 18px; }
-  body[data-fixed-template="wiki"] .hero h2 { font-size: 20px; }
+  body[data-fixed-template="wiki"] .hero h2, body[data-fixed-template="wiki"] .launch-summary h2 { font-size: 20px; }
   body[data-fixed-template="wiki"] .launch-actions { margin: 18px 0; }
   body[data-fixed-template="wiki"] .launch-actions a { width: 100%; min-height: 44px; }
   body[data-fixed-template="wiki"] table { min-width: 520px; }

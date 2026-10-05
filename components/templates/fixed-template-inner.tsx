@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBanner } from "@/components/integrations/responsive-banner";
 import { JsonLd } from "@/components/site/json-ld";
 import { PageSections } from "@/components/site/page-sections";
 import { Faq } from "@/components/site/faq";
@@ -28,10 +28,10 @@ export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
           <img src={assetPath(siteConfig.assets.cover)} alt="Minecraft Dungeons II promotional artwork" width={1200} height={675} />
           <figcaption>Minecraft Dungeons II promotional artwork. Game imagery belongs to Mojang Studios and Microsoft.</figcaption>
         </figure> : null}
-        <PageSections sections={page.sections} />
+        <ResponsiveBanner />
+        <PageSections sections={page.sections} nativeAdAfterFirstBlock />
         {page.faq?.length ? <Faq items={page.faq} /> : null}
         {related.length ? <section className="launch-related"><h2>Related Guides</h2><ul>{related.map(item => <li key={item.slug}><Link href={routePath(item.slug)}>{item.navLabel}</Link></li>)}</ul></section> : null}
-        <NativeAdSlot />
       </article>
     </main>
   </>;

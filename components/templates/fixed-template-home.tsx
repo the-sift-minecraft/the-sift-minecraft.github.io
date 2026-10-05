@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBanner } from "@/components/integrations/responsive-banner";
 import { Faq } from "@/components/site/faq";
 import { JsonLd } from "@/components/site/json-ld";
 import { PageSections } from "@/components/site/page-sections";
@@ -26,10 +26,11 @@ export function FixedTemplateHome({ home }: { home: HomePageDefinition }) {
           <img src={assetPath(siteConfig.assets.cover)} alt="Minecraft Dungeons II promotional artwork for The Sift guide" width={1920} height={1080} fetchPriority="high" />
           <figcaption>Minecraft Dungeons II · The Sift is playable now</figcaption>
         </figure></div>
-        {home.sections[0] ? <PageSections sections={[home.sections[0]]} /> : null}
       </section>
+      <ResponsiveBanner />
+      {home.sections[0] ? <div className="launch-summary"><PageSections sections={[home.sections[0]]} nativeAdAfterFirstBlock /></div> : null}
       <div className="launch-body"><PageSections sections={home.sections.slice(1)} />
-        <Faq items={home.faq} /><NativeAdSlot />
+        <Faq items={home.faq} />
       </div>
     </main>
   </>;
